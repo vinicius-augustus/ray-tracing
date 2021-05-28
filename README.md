@@ -3,4 +3,4 @@ In 3D computer graphics, ray tracing is a rendering technique for generating an 
 
 In this repository I will upload files of my studies on ray tracing and computer graphics using Julia High-level programming language.
 
-Some of the codes found here were based on a playlist from the Brazilian YouTube channel **"Programação dinâmica"** https://bit.ly/3hTAk7U
+In this repository, you will find the implementation, in Julia language, of the Ray Tracing algorithm based on the book [Ray Tracing in One Weekend](https://raytracing.github.io/) and on the playlist of a Brazilian channel on YouTube ["Programação Dinâmica"](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5zNlgvgH2HGuhZHpnkT3oo).
